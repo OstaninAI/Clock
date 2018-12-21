@@ -6,9 +6,10 @@ and open the template in the editor.
 -->
 <?php
       $TITL = '<div class="titl"><h1>-=НетБинс=-</h1></div>';
-      $LOGO = '<img class="logo" src="logo.gif">';
+      $LOGO = '<img class="logo" src="logo.gif" alt="logotip">';
+      header('Content-Type: text/html; charset=windows-1251');
 ?>
-<html>
+<html lang="RU-ru">
     <head>
         <meta charset="win-1251">
         <title>Проект № 1</title>
@@ -22,7 +23,7 @@ and open the template in the editor.
         echo $LOGO, $TITL;
         ?>
         </div>
-        
+        <h1>Изменения JBphpStorm</h1>
         <div class="cntnt">
             <div class="clk">
             <div class="wrp">
