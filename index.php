@@ -22,7 +22,7 @@ and open the template in the editor.
         echo $LOGO, $TITL;
         ?>
         </div>
-        <h1>Изменения NB</h1>
+        <h1>Изменения NB ветка</h1>
         <div class="cntnt">
             <div class="clk">
             <div class="wrp">
