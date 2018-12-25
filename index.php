@@ -5,14 +5,13 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <?php
-      $TITL = '<div class="titl"><h1>-=ÍåòÁèíñ=-</h1></div>';
+      $TITL = '<div class="titl"><h1>-=ЦифроЧасы=-</h1></div>';
       $LOGO = '<img class="logo" src="logo.gif" alt="logotip">';
-      header('Content-Type: text/html; charset=windows-1251');
 ?>
 <html lang="RU-ru">
     <head>
-        <meta charset="win-1251">
-        <title>Ïðîåêò ¹ 1</title>
+        <meta charset="utf-8">
+        <title>Проект№ 1</title>
         <link rel="shorcut icon" href="fav.png" type="image/png">
         <link rel="stylesheet" href="style.css">
         <script src="core.js"></script>
@@ -23,8 +22,8 @@ and open the template in the editor.
         echo $LOGO, $TITL;
         ?>
         </div
-        <h1>Èçìåíåíèÿ JBphpStorm</h1>
-        <h1>Èçìåíåíèÿ NB âåòêà</h1>
+        <h1>ПХПшторм</h1>
+        <h1>НетБинс</h1>
         <div class="cntnt">
             <div class="clk">
             <div class="wrp">
