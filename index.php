@@ -21,7 +21,7 @@ and open the template in the editor.
         <?php
         echo $LOGO, $TITL;
         ?>
-        </div
+        </div>
         <h1>ПХПшторм</h1>
         <h1>НетБинс</h1>
         <div class="cntnt">

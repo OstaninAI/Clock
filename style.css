@@ -57,7 +57,11 @@ body{
 .tchk{
     border: 4px solid transparent; 
     border-radius: 4px;
-    box-shadow: 0 0 3px .3px transparent;
+}
+.tchk.active{
+    border: 4px solid green;
+    border-radius: 4px;
+    box-shadow: 0 0 3px .3px green;
 }
 
 .grz{
